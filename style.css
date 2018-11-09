@@ -1,0 +1,63 @@
+body {
+	background: #17255A;
+	color: #EDF2F4;
+	font-family: Bahnschrift light condensed;
+	padding: 30px;
+	margin: 70px;
+	box-shadow: 0px 10px 30px 15px;
+	border-radius: 50px;
+	
+
+}
+h1, h2{
+	font-family: Calisto MT;
+}
+
+h1{
+	color: #4660A3;
+	font-size: 35px;
+	background: #17255A;
+	padding: 12px;
+	margin: 20px;
+	box-shadow: 0px 10px 30px 13px;
+	border-radius: 20px;
+}
+
+h2{
+	color: #4660A3;
+	font-size: 30px;
+	font-weight: lighter;
+	width: 700px; 
+	margin: 20px
+	padding: 10Px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+
+a:hover {
+	color: #6CD4FF;
+}
+
+ p{
+ 	font-size: 20px;
+ }
+ 
+ ul{
+ 	font-size: 15px;
+ }
+ 
+
+div{
+background: #17255A;
+border: 2px #EDF2F4;
+font-size: 15px;
+padding: 10px;
+margin: 45px;
+box-shadow: 0px 10px 30px;
+border-radius: 15px;
+}
+
